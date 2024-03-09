@@ -1,4 +1,4 @@
-# Beerlist project created with Create React App
+# Beerlist project created with Create React App using https://api.punkapi.com/v2/beers API
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
